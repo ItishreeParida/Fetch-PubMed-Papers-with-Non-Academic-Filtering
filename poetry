@@ -1,0 +1,11 @@
+get-papers-list/
+├── get_papers_list/
+│   ├── __init__.py
+│   ├── cli.py
+│   ├── fetch_papers.py
+│   └── utils.py
+├── tests/
+│   └── test_fetch_papers.py
+├── pyproject.toml
+├── README.md
+└── .gitignore
